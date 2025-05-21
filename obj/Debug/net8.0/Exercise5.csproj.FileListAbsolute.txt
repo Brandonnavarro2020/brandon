@@ -12,3 +12,4 @@ C:\Users\POWER\Documents\brandon\week01\Exercise5\obj\Debug\net8.0\refint\Exerci
 C:\Users\POWER\Documents\brandon\week01\Exercise5\obj\Debug\net8.0\Exercise5.pdb
 C:\Users\POWER\Documents\brandon\week01\Exercise5\obj\Debug\net8.0\Exercise5.genruntimeconfig.cache
 C:\Users\POWER\Documents\brandon\week01\Exercise5\obj\Debug\net8.0\ref\Exercise5.dll
+C:\Users\POWER\Documents\brandon\week01\Exercise5\obj\Debug\net8.0\Exercise5.sourcelink.json
