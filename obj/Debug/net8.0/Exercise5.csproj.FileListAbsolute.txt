@@ -7,7 +7,6 @@ C:\Users\POWER\Documents\brandon\week01\Exercise5\obj\Debug\net8.0\Exercise5.Gen
 C:\Users\POWER\Documents\brandon\week01\Exercise5\obj\Debug\net8.0\Exercise5.AssemblyInfoInputs.cache
 C:\Users\POWER\Documents\brandon\week01\Exercise5\obj\Debug\net8.0\Exercise5.AssemblyInfo.cs
 C:\Users\POWER\Documents\brandon\week01\Exercise5\obj\Debug\net8.0\Exercise5.csproj.CoreCompileInputs.cache
-C:\Users\POWER\Documents\brandon\week01\Exercise5\obj\Debug\net8.0\Exercise5.sourcelink.json
 C:\Users\POWER\Documents\brandon\week01\Exercise5\obj\Debug\net8.0\Exercise5.dll
 C:\Users\POWER\Documents\brandon\week01\Exercise5\obj\Debug\net8.0\refint\Exercise5.dll
 C:\Users\POWER\Documents\brandon\week01\Exercise5\obj\Debug\net8.0\Exercise5.pdb
